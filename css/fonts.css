@@ -2,17 +2,17 @@
     font-family: "Old Standard TT";
     src: url('../fonts/Old Standard - Bold.ttf') format(truetype);
     font-style: normal;
-    font-weight: 700;
+    font-weight: 600;
 }
 @font-face {
     font-family: "Old Standard TT";
     src: url('../fonts/Old Standard - Regular.ttf') format(truetype);
     font-style: normal;
-    font-weight: 500;
+    font-weight: 400;
 }
 @font-face {
     font-family: "Old Standard TT";
     src: url('../fonts/Old Standard - Italic.ttf') format(truetype);
     font-style: italic;
-    font-weight: 500;
+    font-weight: 400;
 }
