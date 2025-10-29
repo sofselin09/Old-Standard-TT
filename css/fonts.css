@@ -1,18 +1,18 @@
 @font-face {
-    font-family: "Old Stadard TT";
+    font-family: "Old Standard TT";
     src: url('../fonts/Old Standard - Bold.ttf') format(truetype);
-    font-style: bold;
-    font-weight: 700;
-}
-@font-face {
-    font-family: "Old Stadard TT";
-    src: url('../fonts/Old Standard - Regular.ttf') format(truetype);
     font-style: normal;
     font-weight: 700;
 }
 @font-face {
-    font-family: "Old Stadard TT";
+    font-family: "Old Standard TT";
+    src: url('../fonts/Old Standard - Regular.ttf') format(truetype);
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Old Standard TT";
     src: url('../fonts/Old Standard - Italic.ttf') format(truetype);
     font-style: italic;
-    font-weight: 700;
+    font-weight: 500;
 }
