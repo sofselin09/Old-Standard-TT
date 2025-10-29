@@ -1,5 +1,41 @@
+* {
+    box-sizing: border-box;
+}
 body { 
     width: 1440px;
     margin: 0 auto;
     display: block;
+    background-color: black;
+}
+.section-1 div {
+    position: relative;
+    width: 1440px;
+    margin: 0 auto;
+}
+.section-1 img {
+    display: block;
+    margin: 0 auto;
+    object-fit: cover;
+}
+.section-1 .naming,
+.section-1 .author {
+    position: absolute;
+    color:black
+
+}
+.section-1 .naming {
+    top: 250px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-weight: 500;
+    font-size: 150px;
+    white-space: nowrap;
+}
+
+.section-1 .author {
+    top: 530px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-weight: 500;
+    font-size: 45px;
 }
