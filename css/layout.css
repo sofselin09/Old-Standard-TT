@@ -39,3 +39,23 @@ body {
     font-weight: 500;
     font-size: 45px;
 }
+.section-2 {
+    width: 100%;
+    padding-top: 74px;
+}
+.section-2 div {
+    display: flex;
+    justify-content: center;
+    gap: 55px;
+    width: 1440px;
+    margin: 0 auto;
+}
+.section-2 .img-1,
+.section-2 .img-2
+.section-2 .img-3
+ {
+    width: 412px;
+    height: 797px;
+    object-fit: cover;
+    display: block;
+}
