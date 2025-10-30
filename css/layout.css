@@ -168,7 +168,7 @@ body {
     width: 100%;
     min-height: 3500px;
     padding: 200px 0;
-    padding-bottom: 300px;
+    padding-bottom: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -227,4 +227,69 @@ body {
     height: auto;
     margin: 0 40px;
     object-fit: contain;
+}
+.section-6 {
+    width: 100%;
+    padding-top: -200px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.container-6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    width: 1440px;
+    margin-top: 20px;
+}
+
+.container-6 .Header-2 {
+    font-family: "Old Standatd TT", serif;
+    font-size: 100px;
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-underline-offset: 10px;
+    text-transform: uppercase;
+    color: aliceblue;
+    letter-spacing: 5px;
+    display: inline-block;
+    transform: scaleY(1.35);
+}
+
+.container-6 img {
+    height: 4px;
+    width: 334px;
+    object-fit: cover;
+}
+.section-7 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 100px 0;
+    position: relative;
+    z-index: 1;
+}
+.group_text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 40px;
+    position: relative;
+    z-index: 10;
+}
+.group_text p {
+    margin: 0;
+    line-height: 1.4;
+    color: aliceblue;
+    font-size: 51px;
+    font-weight: 400;
+}
+.group_text img {
+    width: 258px;
+    height: 2px;
+    object-fit: cover;
 }
