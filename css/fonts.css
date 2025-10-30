@@ -1,18 +1,20 @@
 @font-face {
     font-family: "Old Standard TT";
-    src: url('../fonts/Old Standard - Bold.ttf') format(truetype);
+    src: url("../fonts/OldStandard-Bold.ttf") format("truetype");
     font-style: normal;
     font-weight: 600;
 }
+
 @font-face {
     font-family: "Old Standard TT";
-    src: url('../fonts/Old Standard - Regular.ttf') format(truetype);
+    src: url("../fonts/OldStandard-Regular.ttf") format("truetype");
     font-style: normal;
     font-weight: 400;
 }
+
 @font-face {
     font-family: "Old Standard TT";
-    src: url('../fonts/Old Standard - Italic.ttf') format(truetype);
+    src: url("../fonts/OldStandard-Italic.ttf") format("truetype");
     font-style: italic;
     font-weight: 400;
 }
