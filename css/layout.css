@@ -24,7 +24,7 @@ body {
 
 }
 .section-1 .naming {
-    top: 250px;
+    top: 370px;
     left: 50%;
     transform: translateX(-50%);
     font-weight: 500;
@@ -33,7 +33,7 @@ body {
 }
 
 .section-1 .author {
-    top: 530px;
+    top: 550px;
     left: 50%;
     transform: translateX(-50%);
     font-weight: 500;
@@ -354,7 +354,8 @@ body {
     padding: 100px 80px;
 }
 .container-10 {
-    width: 100%;
+    width: 1440px;
+    margin: 0 auto;
     display: flex;
     align-items: center;
     gap: 60px;
